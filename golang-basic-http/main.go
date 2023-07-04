@@ -17,8 +17,8 @@ type contact struct {
 
 // contacts slice to store contact data.
 var contacts = []contact{
-	{ID: "1", Name: "John Doe", PhoneNumber: "1234567890"},
-	{ID: "2", Name: "Jane Smith", PhoneNumber: "9876543210"},
+	{ID: "1", Name: "Sthita", PhoneNumber: "1234567890"},
+	{ID: "2", Name: "Prajna", PhoneNumber: "9876543210"},
 }
 
 func main() {
