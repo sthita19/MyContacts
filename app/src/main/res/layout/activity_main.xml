@@ -13,6 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Contacts"
+        android:textColor="#592693"
         android:textSize="24sp"
         android:textStyle="bold" />
 
@@ -20,7 +21,8 @@
         android:id="@+id/list_contacts"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_below="@id/header_app_name" />
+        android:layout_below="@id/header_app_name"
+        />
 
     <Button
         android:id="@+id/btn_add_contact"
